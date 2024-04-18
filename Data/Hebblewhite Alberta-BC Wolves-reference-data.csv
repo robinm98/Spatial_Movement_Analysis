@@ -1,0 +1,69 @@
+tag-id,animal-id,animal-taxon,deploy-on-date,deploy-off-date,animal-comments,animal-death-comments,animal-life-stage,animal-mass,animal-sex,attachment-type,deployment-comments,deployment-end-comments,deployment-end-type,duty-cycle,manipulation-type,tag-manufacturer-name,tag-model,tag-readout-method
+J081,J081,Canis lupus,,,Sunwapta pack,,adult,,f,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+K021,K021,Canis lupus,,,Cutbank pack,,adult,,f,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+J068,J068,Canis lupus,,,Rocky River pack,,adult,,m,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+J015,J015,Canis lupus,,,Medicine pack,,adult,,f,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+JW01,JW01,Canis lupus,,,Bow Valley pack,,,,,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+J016,J016,Canis lupus,,,Medicine pack,,adult,,m,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+J031,J031,Canis lupus,,,Medicine pack,,yearling,,m,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+B045,B045,Canis lupus,,,Cascade pack,,,,,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+J058,J058,Canis lupus,,,Sunwapta pack,,adult,,f,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+J040,J040,Canis lupus,,,Sunwapta pack,,adult,,m,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+W116,W116,Canis lupus,,,Kakwa pack,,adult,,f,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+J056,J056,Canis lupus,,,Sunwapta pack,,adult,,f,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+N239,N239,Canis lupus,,,Lower Brazeau pack,,,,,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+N211,N211,Canis lupus,,,Lower Brazeau pack,,,,,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+JW02,JW02,Canis lupus,,,Bow Valley pack,,,,,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+K022,K022,Canis lupus,,,Lynx Creek pack,,adult,,m,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+J107,J107,Canis lupus,,,Upper Brazeau pack,,adult,,f,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+J023,J023,Canis lupus,,,Medicine pack,,yoy,,m,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+J047,J047,Canis lupus,,,Upper Brazeau pack,,adult,,f,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+J057,J057,Canis lupus,,,Signal pack,,adult,,m,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+K019,K019,Canis lupus,,,Cutbank pack,,yearling,,f,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+W119,W119,Canis lupus,,,Muskeg pack,,yearling,,f,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+W114,W114,Canis lupus,,,A la Peche pack,,adult,,f,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+J121,J121,Canis lupus,,,Signal pack,,unknown,,f,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+J120,J120,Canis lupus,,,Cavell pack,,unknown,,f,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+J119,J119,Canis lupus,,,Upper Brazeau pack,,yoy,,,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+K008,K008,Canis lupus,,,Simonette pack,,adult,,f,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+K030,K030,Canis lupus,,,Simonette pack,,adult,,m,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+J110,J110,Canis lupus,,,Signal pack,,adult,,f,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+J112,J112,Canis lupus,,,Sunwapta pack,,yearling,,f,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+K013,K013,Canis lupus,,,Simonette pack,,adult,,f,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+N207,N207,Canis lupus,,,Lower Brazeau pack,,,,,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+K005,K005,Canis lupus,,,Cutbank pack,,adult,,m,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+J027,J027,Canis lupus,,,Signal pack,,adult,,m,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+J135,J135,Canis lupus,,,Signal pack,,adult,,m,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+N212,N212,Canis lupus,,,Lower Brazeau pack,,,,,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+J062,J062,Canis lupus,,,Signal pack,,adult,,f,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+K029,K029,Canis lupus,,,Little Smoky pack,,yearling,,f,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+J018,J018,Canis lupus,,,Signal pack,,adult,,f,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+J063,J063,Canis lupus,,,Sunwapta pack,,adult,,f,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+W122,W122,Canis lupus,,,A la Peche pack,,adult,,f,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+B042,B042,Canis lupus,,,Red Deer pack,,,,,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+K009,K009,Canis lupus,,,Prairie Creek pack,,adult,,f,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+B065,B065,Canis lupus,,2004-06-15 00:00:00.000,Ranch pack,,,,m,collar,"Ya Ha Tinda; Pack name changed in 2004, Cascade and Ranch pack",,unknown,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+B078,B078,Canis lupus,2003-12-15 00:00:00.000,2004-12-31 00:00:00.000,Wildhorse pack,,yearling,,m,collar,,alive,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+B077,B077,Canis lupus,2003-12-15 00:00:00.000,2004-10-02 00:00:00.000,Ranch pack,,yearling,,m,collar,Ya Ha Tinda,,removal,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+B079,B079,Canis lupus,2003-12-17 00:00:00.000,2004-01-18 00:00:00.000,Wildhorse pack,trapped on 1/18/2004,yearling,,m,collar,,,dead,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+B082,B082,Canis lupus,2004-03-20 00:00:00.000,2004-12-07 00:00:00.000,Red Deer pack,,yearling,,f,collar,,,removal,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+B081,B081,Canis lupus,2004-03-20 00:00:00.000,2004-12-07 00:00:00.000,Red Deer pack,,yearling,,m,collar,,,removal,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+B083,B083,Canis lupus,2004-03-20 00:00:00.000,2004-12-31 00:00:00.000,Wildhorse pack,,adult,,m,collar,,alive,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+B080,B080,Canis lupus,2004-03-20 00:00:00.000,2004-09-25 00:00:00.000,Ranch pack,shot,yearling,,m,collar,Ya Ha Tinda,,dead,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+B084,B084,Canis lupus,2004-04-19 00:00:00.000,2004-12-07 00:00:00.000,Red Deer pack,,yearling,,f,collar,,,removal,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+B085,B085,Canis lupus,2004-05-19 00:00:00.000,2004-12-31 00:00:00.000,Cascade pack,,adult,,f,collar,,alive,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+B087,B087,Canis lupus,2004-06-23 00:00:00.000,2004-12-31 00:00:00.000,Bow Valley pack,,adult,,f,collar,,alive,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+B086,B086,Canis lupus,2004-06-24 00:00:00.000,2004-10-02 00:00:00.000,Ranch pack,,yearling,,f,collar,Ya Ha Tinda,,removal,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+W106,W106,Canis lupus,2007-02-13 00:00:00.000,,Upper Kakwa pack,,adult,60781.328,m,collar,RPC; gray hair,,,1 fix every 15 min to 6 hr,none,Lotek,GPS4400,other-wireless
+W103,W103,Canis lupus,2007-02-13 00:00:00.000,,Belcourt pack,,adult,57152.592,m,collar,Upper Narraway; black hair,,,1 fix every 15 min to 6 hr,none,Lotek,GPS4400,other-wireless
+W105,W105,Canis lupus,2007-02-13 00:00:00.000,,Lower Narraway pack,,unknown,86182.48,f,collar,alpha female; black hair,,,1 fix every 15 min to 6 hr,none,Lotek,GPS4400,other-wireless
+W108,W108,Canis lupus,2007-02-14 00:00:00.000,,A la Peche pack,,yearling,41730.464,f,collar,black hair,,,1 fix every 15 min to 6 hr,none,Lotek,GPS4400,other-wireless
+W110,W110,Canis lupus,2007-02-15 00:00:00.000,,Lower Kakwa pack,,adult,49895.12,m,collar,RPC; alpha male,,,1 fix every 15 min to 6 hr,none,Lotek,GPS4400,other-wireless
+W112,W112,Canis lupus,2007-02-17 00:00:00.000,,North Berland pack,,adult,46719.976,m,collar,ALP; grey hair,,,1 fix every 15 min to 6 hr,none,Lotek,GPS4400,other-wireless
+W124,W124,Canis lupus,2008-06-18 00:00:00.000,,Kakwa pack,,yad,,f,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+W126,W126,Canis lupus,2008-07-16 00:00:00.000,,Two Lakes pack,,adult,,f,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+W127,W127,Canis lupus,2008-07-20 00:00:00.000,,Two Lakes pack,,yad,,f,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+W129,W129,Canis lupus,2008-12-02 00:00:00.000,,Glacier Pass pack,,adult,,m,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+W131,W131,Canis lupus,2009-01-25 00:00:00.000,,Sheep Creek pack,died,yad,,f,collar,,,dead,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+W134,W134,Canis lupus,2009-03-07 00:00:00.000,,Kakwa pack,,yearling,,m,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
+W135,W135,Canis lupus,2009-03-08 00:00:00.000,,Glacier Pass pack,,adult,,f,collar,,,,1 fix every 15 min to 6 hr,none,Lotek,GPS3300sw,other-wireless
