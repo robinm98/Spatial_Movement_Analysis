@@ -1,0 +1,2 @@
+test_accuracy,haversine_accuracy
+"{'MAE_lat': 0.1533827259899431, 'RMSE_lat': 0.17944551606835518, 'MAE_long': 0.1603340323615948, 'RMSE_long': 0.18305228990857966}","{'Mean_Haversine_Distance': 16.46119844091155, 'Median_Haversine_Distance': 14.645446516865835}"
